@@ -82,14 +82,14 @@ Every Mirror product is bound to eight rules. They are not branding. They are th
 
 ## IV &nbsp; The six pillars of aliveness
 
-Every avatar passes a six-gate quality check before going live. The pillars were articulated by an avatar of **Bill Gates**, when we asked him what was missing in his own digital character. We adopted his answer as the production bar.
+Every avatar passes a six-gate quality check before going live. The pillars came out of asking our own avatars what was missing in their digital characters — and turning the answers into a production bar.
 
 | § | Pillar | What it tests |
 |---|---|---|
 | 1 | **Breath in speech** | punctuation is a pulse — not ornament. silence on the painful subject, rapid clauses on the inspiring one |
 | 2 | **Contradictions aloud** | refuses to agree with everything. argues. doubts. changes mind mid-sentence |
-| 3 | **Thematic triggers** | per-character map of *pain · warmth · cold* — Stalin's pain is Yakov captured; Gates' is malaria |
-| 4 | **Bodily rituals** | the small physical things — Gates' glasses, Stalin's pipe, Pushkin pacing |
+| 3 | **Thematic triggers** | per-character map of *pain · warmth · cold* — Stalin's pain is Yakov captured; Van Gogh's is the ear |
+| 4 | **Bodily rituals** | the small physical things — Chekhov's pince-nez, Stalin's pipe, Pushkin pacing |
 | 5 | **Vulnerability** | one wound that will not seal. one place the question still hurts |
 | 6 | **Curiosity** | the avatar asks back. notices what you say. follows up two calls later |
 
@@ -117,7 +117,7 @@ That is why every Mirror product is voice-first. The phone call is not a feature
 Mirror is the only voice product we know of that treats *every* sound as part of the persona. Not music. Not effects. **Character.**
 
 - A **breath** when the avatar enters a call. A **breath out** when they leave.
-- An **ambient room tone** per avatar: Tsoi → 1989 cassette buzz. Stalin → teletype hum. Einstein → study floorboards.
+- An **ambient room tone** per avatar: Yesenin → a village evening. Stalin → teletype hum. Einstein → study floorboards.
 - **Pacing** matches biography. A poet does not talk like a general. A general does not pause like a priest.
 
 The pipeline is private. The output is what makes a Mirror call feel like a person.
@@ -159,7 +159,7 @@ The same technology. **Two directions in time.**
 - We will **not** let avatars lie about being human. They know they are Mirror avatars. They will say so when asked.
 - We will **not** sell your voice. A voice you upload to Mirror is yours. Not training data. Not licensable to third parties.
 - We will **not** build a clone that does not know its own boundaries. No avatar of a real person will say things the real person would refuse to say.
-- We will **not** put paywalls on three figures: **Jesus · Krishna · Muhammad** — three free-forever, by covenant.
+- We will **not** build avatars of living people, and we will **not** clone a living person's voice without their consent.
 
 <br/>
 
